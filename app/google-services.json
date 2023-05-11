@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286545827453",
+    "project_id": "streamio-d2ee6",
+    "storage_bucket": "streamio-d2ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286545827453:android:7cb7b793bbe890bd760314",
+        "android_client_info": {
+          "package_name": "br.com.senaicimatec.streamio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286545827453-gcels6ebm85l9ave5co9egol4endt05a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.senaicimatec.streamio",
+            "certificate_hash": "6ad04e6c28b48718cec5243d97d7849126bd606f"
+          }
+        },
+        {
+          "client_id": "286545827453-au081ade9s4qji46mtj6ks11csg6l97c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbnaVWMqrRLD9Q2lhj2lenYIJwEmj9r3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286545827453-au081ade9s4qji46mtj6ks11csg6l97c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

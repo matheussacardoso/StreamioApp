@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">streamio</string>
+
+    <!--activity_main strings-->
+    <string name="addPlaylistFab_ContentDescription">Adicionar Playlist FAB</string>
+
+    <!--bottomsheet_layout strings-->
+    <string name="removeIconTopBottomsheetDialog">Remove Icon</string>
+    <string name="titleTextBottomsheetDialog">Criar</string>
+    <string name="cancelIconBottomsheetDialog">Cancel Icon</string>
+    <string name="newPlaylistIconBottomsheetDialog">New Playlist Icon</string>
+    <string name="newPlaylistTextBottomsheetDialog">Nova Playlist</string>
+
+    <!--fragment_add_movie strings-->
+    <string name="titleFragmentAddMovies">Cadastro de Playlists</string>
+    <string name="playlistNameHint">Nome da Playlist</string>
+    <string name="playlistAuthorHint">Autor</string>
+    <string name="movieTitleHint">Título do Filme</string>
+    <string name="movieYearHint">Ano</string>
+    <string name="addPlaylistBtn">Adicionar Playlist</string>
+
+    <!--fragment_login strings-->
+    <string name="titleLoginFragment">Login</string>
+    <string name="userNameLoginFragment">Nome de Usuário</string>
+    <string name="passwordLoginFragment">Senha</string>
+    <string name="buttonLoginFragment">Entrar</string>
+    <string name="registroButtonLoginFragment">Registre-se</string>
+
+    <!--fragment_movie_list-->
+    <string name="titleMovieList">Nome da Playlist by: autor</string>
+    <string name="likeButtonContentDescription">Like Button</string>
+
+    <!--fragment_sign_up-->
+    <string name="titleSignUp">Registro de usuário</string>
+    <string name="idsignUp">ID do aluno (sem o ponto)</string>
+    <string name="userNameSignUp">Nome de Usuário</string>
+    <string name="passwordSignUp">Senha</string>
+    <string name="buttonSignUp">Cadastrar</string>
+
+    <!--movie_item_card.xml-->
+    <string name="movieTitle">Titulo do Filme</string>
+    <string name="movieYear">Ano</string>
+
+    <!--playlist_item_card.xml-->
+    <string name="playlistTitle">Titulo da Playlist</string>
+    <string name="playlistLikes">33</string>
+</resources>
